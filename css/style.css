@@ -270,7 +270,6 @@ footer h2 {
         margin-bottom: 2rem;
         background-color: #c92b40;
         text-align: center;
-        /* padding: 1rem; */
         margin: 0 1rem;
         width: 45%;
     }
@@ -335,7 +334,7 @@ footer h2 {
     .float-child {
         float: left;
         width: 35%;
-        padding: 0.5rem;
+        margin-left: 2.6rem;
     }
 
     .float-parent {
